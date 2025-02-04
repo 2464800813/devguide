@@ -1,4 +1,4 @@
-.. _git-boot-camp:
+fer.. _git-boot-camp:
 .. _gitbootcamp:
 
 Git bootcamp and cheat sheet
